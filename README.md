@@ -1,16 +1,14 @@
-# travelminapp
+# Travel app
 
-A new Flutter project.
+A simple clean design created with flutter.
 
-## Getting Started
+Design Credit - https://dribbble.com/shots/6611672-Travel-App/attachments
 
-This project is a starting point for a Flutter application.
+How do I code this ? - https://youtu.be/QjTTbwh7Q4M
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20190917-154457](https://user-images.githubusercontent.com/8137504/65061842-625c8e00-d998-11e9-9636-67cc7b00c2f4.png)
+![Screenshot_20190917-154505](https://user-images.githubusercontent.com/8137504/65061843-62f52480-d998-11e9-8ab5-74802e3a588f.png)
+![Screenshot_20190917-154514](https://user-images.githubusercontent.com/8137504/65061845-62f52480-d998-11e9-8c46-2dc5b4f1cd89.png)
+![Screenshot_20190917-154528](https://user-images.githubusercontent.com/8137504/65061847-62f52480-d998-11e9-9fa8-71ba01239b63.png)
